@@ -1,0 +1,6 @@
+How to run - 
+
+1. Create the virtual environment. 
+2. Install the dependencies - pip install pymilvus sentence-transformers rank-bm25 numpy
+3. Run the local containers : docker compose up -d
+4. Run the bm25_bert_milvus.py
